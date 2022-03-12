@@ -5,3 +5,27 @@
   color: #6c6b6b;
 }
 
+header {
+  background-color: #EC715F;
+  height: 70px;
+}
+
+.nav-bar {
+  width: 1024px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.logo {
+  height: 70px;
+  margin-right: auto;
+}
+
+.nav-bar li {
+  list-style: none;
+  display: inline-block;
+  padding:0 30px;
+  font-size: 16px;
+  color: #FAFAFA;
+}
